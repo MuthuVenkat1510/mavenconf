@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42074" started-at="2023-03-07T12:08:33Z" finished-at="2023-03-07T12:09:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42074" started-at="2023-03-07T12:08:33Z" finished-at="2023-03-07T12:09:15Z">
+      <class name="org.testng.sample">
+        <test-method status="PASS" signature="befClass()[pri:0, instance:org.testng.sample@778d1062]" name="befClass" is-config="true" duration-ms="57" started-at="2023-03-07T12:08:33Z" finished-at="2023-03-07T12:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befClass -->
+        <test-method status="PASS" signature="beMetho()[pri:0, instance:org.testng.sample@778d1062]" name="beMetho" is-config="true" duration-ms="10559" started-at="2023-03-07T12:08:33Z" finished-at="2023-03-07T12:08:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beMetho -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.sample@778d1062]" name="tc1" duration-ms="3452" started-at="2023-03-07T12:08:44Z" finished-at="2023-03-07T12:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="aftMethod()[pri:0, instance:org.testng.sample@778d1062]" name="aftMethod" is-config="true" duration-ms="1401" started-at="2023-03-07T12:08:48Z" finished-at="2023-03-07T12:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftMethod -->
+        <test-method status="PASS" signature="beMetho()[pri:0, instance:org.testng.sample@778d1062]" name="beMetho" is-config="true" duration-ms="10402" started-at="2023-03-07T12:08:49Z" finished-at="2023-03-07T12:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beMetho -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.sample@778d1062]" name="tc2" duration-ms="1757" started-at="2023-03-07T12:08:59Z" finished-at="2023-03-07T12:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="aftMethod()[pri:0, instance:org.testng.sample@778d1062]" name="aftMethod" is-config="true" duration-ms="1627" started-at="2023-03-07T12:09:01Z" finished-at="2023-03-07T12:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftMethod -->
+        <test-method status="PASS" signature="beMetho()[pri:0, instance:org.testng.sample@778d1062]" name="beMetho" is-config="true" duration-ms="10000" started-at="2023-03-07T12:09:03Z" finished-at="2023-03-07T12:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beMetho -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testng.sample@778d1062]" name="tc3" duration-ms="1383" started-at="2023-03-07T12:09:13Z" finished-at="2023-03-07T12:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="aftMethod()[pri:0, instance:org.testng.sample@778d1062]" name="aftMethod" is-config="true" duration-ms="1337" started-at="2023-03-07T12:09:14Z" finished-at="2023-03-07T12:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftMethod -->
+        <test-method status="PASS" signature="atClass()[pri:0, instance:org.testng.sample@778d1062]" name="atClass" is-config="true" duration-ms="2" started-at="2023-03-07T12:09:15Z" finished-at="2023-03-07T12:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atClass -->
+      </class> <!-- org.testng.sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
